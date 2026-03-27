@@ -25,7 +25,7 @@ This module implements an N-bit Ripple Carry Adder using full adder logic.
 
 ## Logic
 
-Each stage computes:
+Each stage of computes:
 
 Si = Ai ⊕ Bi ⊕ Ci
 Ci+1 = AiBi + BiCi + AiCi
