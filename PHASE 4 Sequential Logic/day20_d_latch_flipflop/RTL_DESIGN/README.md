@@ -2,13 +2,13 @@
 
 ## 🎯 Objective
 
-Design and verify a D Flip-Flop using Verilog.
+Design and verify a D Flip-Flop using the Verilog.
 
 ---
 
 ## 📌 Design Description
 
-D Flip-Flop captures input data at the rising edge of clock.
+D Flip-Flop captures input data at the rising edge of the clock.
 
 ### Inputs:
 
