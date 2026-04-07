@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Understand timing constraints in sequential circuits.
+Understand timing constraints in the sequential circuits.
 
 ---
 
