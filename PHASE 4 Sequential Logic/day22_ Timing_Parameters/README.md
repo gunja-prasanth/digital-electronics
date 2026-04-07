@@ -17,7 +17,7 @@ Understand timing constraints in the sequential circuits.
 
 ## 🧠 Key Understanding
 
-* Data must be stable before and after clock edge
+* Data must be the stable before and after clock edge
 * Timing violations lead to incorrect operation
 * Constraints ensure reliable circuit behavior
 
