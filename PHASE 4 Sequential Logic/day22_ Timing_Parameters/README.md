@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Understand timing constraints in sequential circuits.
+Understand timing constraints in the sequential circuits.
 
 ---
 
@@ -17,7 +17,7 @@ Understand timing constraints in sequential circuits.
 
 ## 🧠 Key Understanding
 
-* Data must be stable before and after clock edge
+* Data must be the stable before and after clock edge
 * Timing violations lead to incorrect operation
 * Constraints ensure reliable circuit behavior
 
@@ -35,12 +35,12 @@ t_cq + t_comb ≥ t_hold
 
 ## 🚀 Outcome
 
-* Learned critical timing parameters
-* Understood setup and hold violations
+* Learned the critical timing parameters
+* Understood the setup and hold violations
 * Prepared for timing-based interview questions
 
 ---
 
-Timing analysis is essential in VLSI design to ensure correct data transfer between flip-flops.
+Timing analysis is the essential in VLSI design to ensure correct data transfer between flip-flops.
 
 ---
