@@ -23,7 +23,7 @@ Implemented sequence detector for "101" using both FSM types.
 
 ## ⚙️ Functionality
 
-* Detect sequence "101"
+* Detect sequence of "101"
 * Mealy → output during transition
 * Moore → output in state
 
@@ -31,7 +31,7 @@ Implemented sequence detector for "101" using both FSM types.
 
 ## 🧩 RTL Design
 
-* Mealy: output inside state transition
+* Mealy: output inside the state transition
 * Moore: separate output logic block
 * Different number of states used
 
