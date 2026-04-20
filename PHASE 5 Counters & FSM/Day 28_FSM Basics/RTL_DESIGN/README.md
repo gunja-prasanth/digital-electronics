@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Design and verify a basic FSM using Verilog.
+Design and verify the basic FSM using Verilog.
 
 ---
 
